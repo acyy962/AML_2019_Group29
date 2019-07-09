@@ -7,9 +7,9 @@ The loss function implies how good the model performs at making predictions for 
 ## Plain vanilla gradient descent
 Vanilla (or Batch) gradient descent takes small steps in the downhill direction. Starting from some random initial points of parameters and then find the gradient at the starting points. If it is not close to zero, iterate the values of parameters until the gradient is close to zero. Let’s run some experiments to see how the algorithm performs.
  
-*Initialize X1 and X2 at 5
-*Learning rate: 0.001
-*Number of iterations: 10000
+* Initialize X1 and X2 at 5
+* Learning rate: 0.001
+* Number of iterations: 10000
  
 The process converged in 8220 steps with X = (0, 0) and loss function equals zero. The convergence speed is fairly slow for this loss function. However, from the Figure 1 (b) that the algorithm is quite effective in finding the global minima without too much jumps around the minimum point. 
  
