@@ -13,7 +13,7 @@ Vanilla (or Batch) gradient descent takes small steps in the downhill direction.
  
 The process converged in 8220 steps with X = (0, 0) and loss function equals zero. The convergence speed is fairly slow for this loss function. However, from the Figure 1 (b) that the algorithm is quite effective in finding the global minima without too much jumps around the minimum point. 
  
-![alt text](https://user-images.githubusercontent.com/52373417/60927788-047a3e80-a2a3-11e9-8024-60813e6da465.png)
+![alt text](https://user-images.githubusercontent.com/52373417/60932957-377afd00-a2b8-11e9-94e4-140318469e1d.png)
  
 The plot illustrates that the path of the loss function does follow a gradient descent. Moreover, the smaller the stepsize is, the more the steps it needs to converge. However, the algorithm cannot stand too high a stepsize due to extremely high value of loss function becomes. 
  
