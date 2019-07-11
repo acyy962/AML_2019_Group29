@@ -3,6 +3,8 @@ As an optimization algorithm, gradient descent is widely used to minimize loss f
  
 ## Loss function and gradients
 The loss function implies how good the model performs at making predictions for a given set of parameters. It has its own gradients, which are the derivatives of the function with respect to its variables in mathematics. In this report, we choose the two-dimensional Three-Hump Camel Function as our loss function.
+
+![alt text](https://user-images.githubusercontent.com/52373417/61050393-d1d56080-a3de-11e9-81eb-3361a0792f7f.png)
  
 ## Plain vanilla gradient descent
 Vanilla (or Batch) gradient descent takes small steps in the downhill direction. Starting from some random initial points of parameters and then find the gradient at the starting points. If it is not close to zero, iterate the values of parameters until the gradient is close to zero. Let’s run some experiments to see how the algorithm performs.
