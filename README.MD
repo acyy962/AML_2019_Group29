@@ -38,6 +38,7 @@ From the plot, there is less oscillations than momentum. It reaches global minim
 ![alt text](https://user-images.githubusercontent.com/52373417/60933029-86289700-a2b8-11e9-8027-beda6845082d.png)
 
 ## Reference:
-Gradient Descent with Momentum, Muhammad Rizwan (https://engmrk.com/gradient-descent-with-momentum/)
-Deep Learning Specialization, Andrew Ng
+* Muhammad Rizwan (2019), Gradient Descent with Momentum (https://engmrk.com/gradient-descent-with-momentum/)
+* Deep Learning Specialization by Andrew Ng
+* Sebastian Ruder (2016), An overview of gradient descent optimization algorithms (http://ruder.io/optimizing-gradient-descent/)
 
