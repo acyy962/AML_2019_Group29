@@ -1,4 +1,4 @@
-# AML_2019_Group29
+# A breif comparision of gradient descent methods
 As an optimization algorithm, gradient descent is widely used to minimize loss functions by iterative moves. In machine learning, it is used in many areas. e.g. find the best parameters of linear regression model or the optimal weights in neural network. In this project, we are going to perform three popular types of gradient descent that are important to machine learning algorithms.
  
 ## Loss function and gradients
